@@ -25,4 +25,4 @@ Update `protrans-react-ui` package. Run `npm install protrans-react-ui@latest`.
 
 Run the app. Type `npm start` in command line. This will build the app and start the dev environment.
 
-Happy Coding!
+**Happy Coding!**
